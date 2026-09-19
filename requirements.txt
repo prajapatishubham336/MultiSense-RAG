@@ -1,0 +1,10 @@
+streamlit
+groq
+python-dotenv
+chromadb
+sentence-transformers
+pymupdf
+pillow
+pytesseract
+python-docx
+torch
